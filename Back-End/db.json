@@ -1,0 +1,124 @@
+{
+  "todos": [
+    {
+      "task": "Razer-deathadder",
+      "price": 40,
+      "id": "8mn2U8ZRmTA",
+      "image": "/images/razer-deathadder-v2.png",
+      "Description": "HIGH-PRECISION 6,400 DPI OPTICAL SENSOR — Offers on-the-fly sensitivity adjustment through dedicated DPI buttons (reprogrammable) for gaming and creative work"
+    },
+    {
+      "task": "Logitech Keyboard",
+      "price": 120,
+      "id": "SIBxS3cFLq0",
+      "image": "/images/pro-clicky-gallery-1.png",
+      "Description": "Customize lighting, game mode, and macro programming with Logitech G HUB software and stay comfortable during long gaming sessions thanks to an integrated palm rest and adjustable keyboard"
+    },
+    {
+      "task": "RAM - DDR5 32GB",
+      "price": 400,
+      "id": "5CEvkcToJuk",
+      "image": "/images/kingston-ddr5.png",
+      "Description": "Improved stability for overclocking, increased efficiency, Low-Profile heat spreader design, Intel XPM 3.0"
+    },
+    {
+      "task": "Iphone 15",
+      "price": 700,
+      "id": "mQVrDE1hAEU",
+      "image": "/images/iphone15.png",
+      "Description": " 6.1inch Super Retina XDR display. Aluminum with color-infused glass back. Ring/Silent switch"
+    },
+    {
+      "task": "Macbook Air M1 (2020)",
+      "price": 600,
+      "id": "5LscUhaFEow",
+      "image": "/images/macbook-air-15-inch.png",
+      "Description": "Apple M1 chip with 8 cores (4 performance cores and 4 efficiency cores), a 7-core GPU and a 16-core Neural Engine"
+    },
+    {
+      "task": "USB-C Charging Cable",
+      "price": 20,
+      "id": "hBg6JAFEJUM",
+      "image": "images/UsbC-charging-cable.webp",
+      "Description": "20W iPhone 17 16 15 Pro Max Charger USB C】 This DiHines iPhone 17 16 15 fast charger block with 10ft long USB C to C charging cable cord equipped with a 20W usb c power delivery port provides Max 20W output power,full charge your iPhone 17 16 15 Pro Max from 0% to 60% in just 30mins, 3X Faster than the standard USB charger"
+    },
+    {
+      "task": "Jansport Backpack",
+      "price": 50,
+      "id": "2UrCjJ2vVe4",
+      "image": "/images/jansport-backpack.jpg",
+      "Description": "Your Forever Pack: Always be ready with the JanSport SuperBreak Backpack. The perfect size for all your essentials and always in style, this backpack is functional and convenient with timeless style."
+    },
+    {
+      "task": "Beats Headphones",
+      "price": 250,
+      "id": "M64LbIYaP9k",
+      "image": "/images/Beats-Headphones.jpeg",
+      "Description": "BEATS' CUSTOM ACOUSTIC PLATFORM delivers rich, immersive sound whether you’re listening to music or taking calls."
+    }
+  ],
+  "history": [
+    {
+      "id": "10Kh6LK9zSU",
+      "items": [
+        {
+          "task": "Razer-deathadder",
+          "price": 40,
+          "id": "8mn2U8ZRmTA",
+          "image": "/images/razer-deathadder-v2.png",
+          "quantity": 4
+        },
+        {
+          "task": "Macbook Air M1 (2020)",
+          "price": 600,
+          "id": "5LscUhaFEow",
+          "image": "/images/macbook-air-15-inch.png",
+          "Description": "Apple M1 chip with 8 cores (4 performance cores and 4 efficiency cores), a 7-core GPU and a 16-core Neural Engine",
+          "quantity": 1
+        }
+      ],
+      "total": 760
+    },
+    {
+      "id": "tXSPu2T4fRo",
+      "items": [
+        {
+          "task": "Razer-deathadder",
+          "price": 40,
+          "id": "8mn2U8ZRmTA",
+          "image": "/images/razer-deathadder-v2.png",
+          "quantity": 4
+        },
+        {
+          "task": "Macbook Air M1 (2020)",
+          "price": 600,
+          "id": "5LscUhaFEow",
+          "image": "/images/macbook-air-15-inch.png",
+          "Description": "Apple M1 chip with 8 cores (4 performance cores and 4 efficiency cores), a 7-core GPU and a 16-core Neural Engine",
+          "quantity": 1
+        }
+      ],
+      "total": 760
+    }
+  ],
+  "cart": {
+    "items": [
+      {
+        "task": "Razer-deathadder",
+        "price": 40,
+        "id": "8mn2U8ZRmTA",
+        "image": "/images/razer-deathadder-v2.png",
+        "quantity": 4
+      },
+      {
+        "task": "Macbook Air M1 (2020)",
+        "price": 600,
+        "id": "5LscUhaFEow",
+        "image": "/images/macbook-air-15-inch.png",
+        "Description": "Apple M1 chip with 8 cores (4 performance cores and 4 efficiency cores), a 7-core GPU and a 16-core Neural Engine",
+        "quantity": 1
+      }
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
